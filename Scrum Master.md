@@ -19,9 +19,9 @@ Obowiązki Scrum Mastera w Obszarze Metodyki
 * Uczenie, opracowywanie sposobów i wspieranie Product Ownera w zakresie efektywnego zarządzania Backlogiem Projektu
 * Uczenie, opracowywanie sposobów i wspieranie Product Ownera w tworzeniu jasnego i czytelnego sposobu formułowania elementów Product Backlogu;
  design by​ Laboratorium EE
-   ● Motywowanie i uczenie zespołu samodzielności w ramach podejmowania decyzji i działań
-● Uczenie Interesariuszy i Klientów pracy w metodyce Scrum;
-○ Scrum Master jest odpowiedzialny za przygotowanie materiałów i przeprowadzenie szkolenia które odbywa się na zakończenie Kickoffu projektu;
+* Motywowanie i uczenie zespołu samodzielności w ramach podejmowania decyzji i działań
+* Uczenie Interesariuszy i Klientów pracy w metodyce Scrum;
+* Scrum Master jest odpowiedzialny za przygotowanie materiałów i przeprowadzenie szkolenia które odbywa się na zakończenie Kickoffu projektu;
 * Zapewnie zespołowy decyzyjności na poziomie sprintów i sposobów realizacji
 zakresów sprintów;
 * Utrzymywanie ram decyzyjności pomiędzy Product Ownerem a Zespołem
