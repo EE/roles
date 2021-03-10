@@ -1,4 +1,4 @@
-#Account Manager / Opiekun Klienta
+# Account Manager / Opiekun Klienta
 
 Definicja:  Zarządza relacjami z klientem, jest odpowiedzialny za rozwój relacji biznesowej z Klientem oraz pozyskiwanie nowych Klientów. Account jest również Klientem Wewnętrznym
 
@@ -12,31 +12,31 @@ KPI:
 * prowadzenie dokumentacji relacji z Klientem w SF; 
 * Pogłębianie przychodów na Kliencie;
 
-##Struktura zależności: 
+## Struktura zależności: 
 
 * Jest jednym z Interesariuszy projektu; 
 * Ścisła współpraca z Product Ownerem;
 
-##Nadrzędne środowisko  pracy, wg Priorytetów: 
+## Nadrzędne środowisko  pracy, wg Priorytetów: 
 
 * SaleForces 
 * CostTracker 
 * Jira 
 
-##Zakres obowiązków:
+## Zakres obowiązków:
 
 * pracuje z Klientem nad dosprzedażą od początku na poziomie 15%;
 * ustalenie budżetów rocznych z Klientem, zasad partnerstwa - perspektywy Klienta;
 * opracowanie dokumentów formalnych z Klientem (umowy, porozumienia);
 * stworzenie Kickoffu pierwszego z Zespołem i z PO; 
 
-##Czego nie robi: 
+## Czego nie robi: 
 
 * nie zarządza projektami;
 * nie organizuje wydarzeń scrumowych; 
 * nie zarądza traffikiem;
 
-##Opi ogólny 
+## Opis ogólny 
 
 * Spotkania z Head Of Sales w celu stalenia i walidacji planu współpracy z Klientem;
 * Zarządza relacjami z klientem;
