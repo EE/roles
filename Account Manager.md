@@ -7,36 +7,36 @@ Cel:  Uporządkowane prowadzenie portfolia Klientów z odpowiednią marżowości
 KPI:
 
 * powracalność Klientów;
-* przychód kwartalny z odpowiednią marżą: 1 000 000 z marżą operacyjną 40%;
-* uporządkowane dokumenty formalne; 
-* prowadzenie dokumentacji relacji z Klientem w SF; 
+* Przychód kwartalny z odpowiednią marżą: 1 000 000 z marżą operacyjną 40%;
+* Uporządkowane dokumenty formalne;
+* Prowadzenie dokumentacji relacji z Klientem w SF;
 * Pogłębianie przychodów na Kliencie;
 
-## Struktura zależności: 
+## Struktura zależności:
 
-* Jest jednym z Interesariuszy projektu; 
+* Jest jednym z Interesariuszy projektu;
 * Ścisła współpraca z Product Ownerem;
 
-## Nadrzędne środowisko  pracy, wg Priorytetów: 
+## Nadrzędne środowisko  pracy, wg Priorytetów:
 
-* SaleForces 
-* CostTracker 
-* Jira 
+* SaleForces
+* CostTracker
+* Jira
 
 ## Zakres obowiązków:
 
 * pracuje z Klientem nad dosprzedażą od początku na poziomie 15%;
 * ustalenie budżetów rocznych z Klientem, zasad partnerstwa - perspektywy Klienta;
 * opracowanie dokumentów formalnych z Klientem (umowy, porozumienia);
-* stworzenie Kickoffu pierwszego z Zespołem i z PO; 
+* stworzenie Kickoffu pierwszego z Zespołem i z PO;
 
-## Czego nie robi: 
+## Czego nie robi:
 
 * nie zarządza projektami;
-* nie organizuje wydarzeń scrumowych; 
+* nie organizuje wydarzeń scrumowych;
 * nie zarądza traffikiem;
 
-## Opis ogólny 
+## Opis ogólny
 
 * Spotkania z Head Of Sales w celu stalenia i walidacji planu współpracy z Klientem;
 * Zarządza relacjami z klientem;
@@ -89,6 +89,3 @@ KPI:
 * Przygotowywanie raportów dotyczących stanu relacji z Klientem na koniec każdego miesiąca i umieszczane ich w SalesForce jako dokument tekstowy;
 * Zapewnianie kompletności dokumentacji projektowo-sprzedażowej  w Sales Force;
 * Wprowadzanie do Plannera projektów na etapie negotiation, internally won oraz Won;
-
-
-
