@@ -47,7 +47,7 @@ KPI:
   * odpowiada za satysfakcję oraz powracalność Klientów;
   * pozyskuje referencje;
   * odpowiada za UpSelling usług do Klienta na poziomie 15;
-* dba o najlepszą obsługę klienta i realizację jego potrzeb, aby zminimalizować ilość klientów rezygnujących z dalszej współpracy:
+* Dba o najlepszą obsługę klienta i realizację jego potrzeb, aby zminimalizować ilość klientów rezygnujących z dalszej współpracy:
   * odpowiada na potrzeby i oczekiwania klienta w zakresie standardów współpracy i komunikacji na poziomie organizacji;
   * odpowiada na zgłaszane potrzeby klientów i wspiera ich w osiąganiu ich celów biznesowych;
 * Opiekuje się projektem:
