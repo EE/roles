@@ -1,2 +1,2 @@
-# roles
-Opisy naszych ról w procesie wytwarzania oprogramowania
+# Roles
+Job descriptions and Key Performance Indicators for Laboratorium EE
